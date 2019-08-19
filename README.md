@@ -1,6 +1,7 @@
 # ![banner](https://github.com/alicedapp/AliceX/blob/master/src/AliceAssets/alice-banner.png)
 
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flmcmz%2Falicex.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flmcmz%2Falicex?ref=badge_shield)
 
 Alice is a cryptocurrency wallet that allows anyone to build native apps inside of it. What does this mean? It means your app gets access to native features that don't exist in the current mobile browser paradigm that we are all used to with cryptocurrency wallets today.
 
@@ -201,3 +202,7 @@ steps to reproduce reported bugs.
 
 ## Open source acknowledgment
 Alice has decided upon the MIT License due to the nature of it's existence as a platform and it's ownership of proprietary code and third-party assets associated with it's platform. This doesn't mean that all code existing within Alice's platform will be licensed under the MIT License. Your application can exist within our platform with it's own license and only adhere to the rules and guidelines of the Alice platform.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flmcmz%2Falicex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flmcmz%2Falicex?ref=badge_large)
